@@ -1,0 +1,49 @@
+========================================
+---------------- Device ----------------
+USB Gamepad 
+
+========================================
+--------------- Buttons ----------------
+No Action
+Fire
+Random Sound
+No Action
+No Action
+No Action
+No Action
+No Action
+No Action
+No Action
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+========================================
+--------------- Sliders ----------------
+Tilt
+Pan
+No Action
+No Action
+No Action
+No Action
+
+
+
+
